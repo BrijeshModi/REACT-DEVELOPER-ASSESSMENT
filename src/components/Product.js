@@ -20,8 +20,7 @@ const Product = ({product,filterData}) => {
                <td valign="middle" align="center">
                  <h5>{filterData.name}</h5>
                </td>
-             </tr>
-            
+             </tr>          
          }
        </tbody>
      </table>
